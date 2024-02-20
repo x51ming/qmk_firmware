@@ -1,0 +1,22 @@
+{
+    "manufacturer": "nolva",
+    "keyboard_name": "nolva_matrix",
+    "maintainer": "nolva",
+    "bootloader": "atmel-dfu",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": true,
+        "console": false,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": false
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0x0501"
+    }
+}
